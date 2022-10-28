@@ -1,2 +1,2 @@
-# <h1>Stranka</h1>
+# Stranka
 # URL: https://dominikhutyra.github.io
