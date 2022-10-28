@@ -1,2 +1,2 @@
-# Stranka
-# URL: https://dominikhutyra.github.io
+Stranka
+URL: https://dominikhutyra.github.io
